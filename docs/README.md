@@ -18,3 +18,8 @@ Quality assurance is integrated throughout execution and release. Before merge a
 - [OctoAcme Release and Deployment](./octoacme-release-and-deployment.md)
 - [OctoAcme Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md)
+
+## Templates and Checklists
+
+- [OctoAcme Test Plan Template](./octoacme-test-plan-template.md)
+- [OctoAcme Documentation Review Checklist](./octoacme-doc-review-checklist.md)

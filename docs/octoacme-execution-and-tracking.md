@@ -38,3 +38,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Engineer has reviewed acceptance criteria and signed off on test coverage before each sprint starts
+- [ ] Automated and manual test results reviewed before each release candidate is cut
+- [ ] UX/UI Designer has provided design sign-off before features move to release
+- [ ] Technical Writer has reviewed and published documentation and release notes before release
+- [ ] Support Engineer / Customer Success notified of upcoming release and support materials prepared
+- [ ] Doc review checklist completed for any user-facing changes (see `octoacme-doc-review-checklist.md`)
