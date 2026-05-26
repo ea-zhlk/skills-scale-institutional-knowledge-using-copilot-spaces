@@ -40,4 +40,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (see `octoacme-test-plan-template.md`)
+- [ ] QA Engineer involved in sprint planning to assess testability and flag QA risks
+- [ ] UX/UI Designer has completed wireframes or prototypes for user-facing features
+- [ ] Business Analyst has validated that acceptance criteria reflect business requirements
+- [ ] Technical Writer identified documentation work items and added them to the backlog
+- [ ] Support Engineer / Customer Success notified of planned scope to prepare support materials
